@@ -1,4 +1,4 @@
-## Note: This is a WIP. If any word/action item from below steps isn't clear or needs description other than attached source, please write to us or look it up in the forum.
+## Note: This is a WIP.
 
 1. Learn about logic gates, digital circuits and ALU.
 2. Learn about Programmable Circuits and Programming.
@@ -20,8 +20,3 @@
     - Write code for Algortihms requried for Networking.
     - Write code for Protocols at all the layers in Networking.
 14. Learn and understand data can be stored efficiently. Get to know Database Systems. 
-.
-.
-.
-.
-.
