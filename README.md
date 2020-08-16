@@ -1,5 +1,6 @@
-
-This open source documentation project lists out a generic [roadmap](roadmap/roadmap.md) for students of Computer science and Information Technology undergrads to become a well-rounded developer.
+# Roadmap
+This open source documentation project lists out a generic [roadmap](/roadmap.md) for students of Computer science and Information Technology 
+undergrads to become a well-rounded developer.
 
 ## Roadmap contribution guidlines:
 1. Add consice goal that can be achieved
