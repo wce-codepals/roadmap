@@ -2,7 +2,8 @@
 
 1. Learn about logic gates, digital circuits and ALU.
 2. Learn about Programmable Circuits and Programming.
-3. Pickup learning C as a programming language and write programs for solving simple problems.
+3. Pickup learning C as a programming language and write programs for solving simple problems.\
+   i. Start by completing this introductory assignment series [Learning-C](https://github.com/wce-codepals/Learning-C)
 4. Learn and understand Processor and Computer Architecture.
 5. Write code using Assembly language.
 6. Get to know need of Compiler and Assembler and write you own toy programs for these
