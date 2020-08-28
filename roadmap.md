@@ -1,6 +1,9 @@
 ## Note: This is a WIP.
 
-1. Learn about logic gates, digital circuits and ALU.
+1. **Goal : Learn about logic gates, digital circuits and arithmetic-logic unit (ALU).**\
+   The computer is a dumb machine that just understands 1's and 0's. So why don't we start with learning how to manipulate this 1's and 0's.\
+   **Task:** Complete logic gates track from [codecademy](https://www.codecademy.com/learn/beta-content/modules/logic-gates). \
+   **Book Resources:** (TODO:Insert book resources here)
 2. Learn about Programmable Circuits and Programming.
 3. Pickup learning C as a programming language and write programs for solving simple problems.\
    i. Start by completing this introductory assignment series [Learning-C](https://github.com/wce-codepals/Learning-C)
